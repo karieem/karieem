@@ -6,9 +6,11 @@
 
 ### About Me
 
-- 👨‍💼 An analytical Software QC engineer (Manual, API, DB, Test Automation) with 1+ years of experience.
+- 👨‍💼 An analytical Software QC engineer (Manual, API, DB, Test Automation) with +1 years of experience.
 - ⚙️ Many of the automation projects I've worked on have been client-based and so private, but I want to focus more on open-source projects.
-- 🌍  Based in Cairo, Egypt
+- 📫 Please feel free to reach out to me via phone at ( +201119661002 ).
+- 🌍 Based in Cairo, Egypt
+- ⚡ Reading Books / DC Comics / Football fan 
 
 ### Skils
 
@@ -19,15 +21,16 @@
 ![Jankins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&link=http://right&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
 ![SQL](https://camo.githubusercontent.com/84fa7f6c26f4067f74daaf973dfd43b2547111617349ce2256ed3c42df2b7722/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c25323053657665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465)
-![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&link=http://right&logoColor=ffffff)
+![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff)
 
 
 ---
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/karieem/count.svg" />
+
+<p align="center" > 
+Thank You For Taking The Time To Review My Profile.
 </p>
+
 
 
 
