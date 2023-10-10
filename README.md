@@ -6,7 +6,7 @@
 
 ### About Me
 
-- 👨‍💼 An analytical software QC engineer (Manual, API, DB, Test Automation) with +1 years of experience.
+- 👨‍💼 An analytical software QC engineer (Manual, API, DB, Test Automation) with +1 year of experience.
 - ⚙️ Many of the automation projects I've worked on have been client-based and so private, but I want to focus more on open-source projects.
 - 📫 Please feel free to reach out to me via phone at ( +201119661002 ).
 - 🌍 Based in Cairo, Egypt
