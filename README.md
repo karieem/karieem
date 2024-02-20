@@ -6,7 +6,7 @@
 
 ### About Me
 
-- 👨‍💼 Software QC Engineer with over one year of experience in Manual, API, Database, and Test Automation. My expertise includes designing, executing, and analyzing test cases to identify and report defects. I am well-versed in a variety of testing tools and methodologies and always strive to ensure the quality and reliability of software products.
+- 👨‍💼 Software QC Engineer with over two years of experience in Manual, API, Database, and Test Automation. My expertise includes designing, executing, and analyzing test cases to identify and report defects. I am well-versed in a variety of testing tools and methodologies and always strive to ensure the quality and reliability of software products.
 - ⚙️ Many of the automation projects I've worked on have been client-based and so private, but I want to focus more on open-source projects.
 - 📫 Please feel free to reach out to me via phone at ( +201119661002 ).
 - 🌍 Based in Cairo, Egypt
